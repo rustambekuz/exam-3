@@ -75,14 +75,4 @@ def square_list(royxat):
         thr.join()
     return lst
 
-print(square_list([1, 2, 3]))
-
-
-
-
-
-
-
-
-
-
+print(square_list([1, 2, 3, 4, 5]))
